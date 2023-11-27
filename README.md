@@ -1,8 +1,8 @@
-### Hi there 👋
+### Introducing to your attention...
 
 ![Alt](profile.jpeg)
 
-I'm Vadim from Russia, and I'm trying to study (and, basically, understand) Software Development/Engineering. You can check some of my own little projects for training, or even "The real case" from intership bellow, in repositories.
+Hi) I'm Vadim from Russia, and I'm trying to study (and, basically, understand) Software Development/Engineering both in and outside my Uni. You can check some of my own little projects for training, or even "The real case" from intership bellow, in repositories.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StilUSoff&layout=compact&theme=transparent)
 
