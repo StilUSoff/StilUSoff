@@ -2,7 +2,8 @@
 
 I'm Vadim from Russia, and I'm trying to study (and, basically, understand) Software Development/Engineering. You can check some of my own little projects for training, or even "The real case" from intership bellow, in repositories.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StilUSoff)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StilUSoff&layout=compact)
+
 
 <!--
 **StilUSoff/StilUSoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
