@@ -2,7 +2,7 @@
 
 I'm Vadim from Russia, and I'm trying to study (and, basically, understand) Software Development/Engineering. You can check some of my own little projects for training, or even "The real case" from intership bellow, in repositories.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StilUSoff&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StilUSoff&layout=compact&bg_color=00000000)
 
 
 <!--
