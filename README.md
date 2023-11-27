@@ -26,7 +26,7 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> – Matlab</a>  <a>          </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> – Linux</a>  <a>          </a> 
 
-<h4> Also, some of my statistic:</h4>
+<h4> Also, some of my statistics:</h4>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/StilUSoff?theme=dark&font=&extension=null)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StilUSoff&layout=compact&theme=dark)
