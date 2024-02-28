@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h2> Some of my statistics:</h2>
+<h3> Some of my statistics:</h3>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StilUSoff&layout=compact&theme=dark) 
 
