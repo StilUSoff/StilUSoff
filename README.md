@@ -5,7 +5,9 @@
 <h4> Some of my statistics:</h4>
 
 <div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StilUSoff&layout=compact&theme=dark) 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/StilUSoff?theme=dark&font=&extension=null)
+
 </div>
