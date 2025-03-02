@@ -8,6 +8,6 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StilUSoff&layout=compact&theme=dark) 
 
-![LeetCode Stats](https://leetcode.card.workers.dev/StilUSoff?theme=dark&font=&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/StilUSoff)
 
 </div>
